@@ -13,7 +13,7 @@ public class Ex08 {
                 vetorA[i] = leitor.nextInt();
             }
 
-            System.out.println("Digite os elementnos do segundo vetor");
+            System.out.println("Digite os elementos do segundo vetor");
             for(int i = 0; i < 5; i++){
                 System.out.println("Número " + (i + 1) + ": ");
                 vetorB[i] = leitor.nextInt();
